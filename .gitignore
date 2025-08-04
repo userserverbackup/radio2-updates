@@ -1,0 +1,40 @@
+# Archivos de configuración con tokens
+*.env
+.env
+.env.local
+config.json
+
+# APKs temporales
+*.apk
+!releases/*.apk
+
+# Logs
+*.log
+logs/
+
+# Archivos temporales
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Tokens y secretos
+*_token*
+*_secret*
+*_key* 
