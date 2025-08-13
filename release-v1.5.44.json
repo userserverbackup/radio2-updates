@@ -1,0 +1,18 @@
+{
+  "version_name": "1.5.44",
+  "version_code": 44,
+  "release_date": "2025-08-12T21:00:16.867028",
+  "download_url": "https://github.com/userserverbackup/radio2-updates/raw/main/radio2-v1.5.44.apk",
+  "changelog": [
+    "🔧 Fix: Resuelto problema de spam de duplicados en GitHub sync",
+    "✅ Corregida sincronización con base de datos real",
+    "🛡️ Agregado filtrado de archivos válidos",
+    "🧹 Limpieza completa del historial corrupto",
+    "⚡ Mejorada validación de datos",
+    "🔑 Token GitHub actualizado",
+    "📱 Mejorada estabilidad general"
+  ],
+  "min_sdk": 31,
+  "target_sdk": 36,
+  "file_size": 14860595
+}
